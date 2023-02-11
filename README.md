@@ -1,4 +1,4 @@
-![prison break image](https://www.dropbox.com/s/f3w4qsbwvbt1r1u/screen_comp.jpeg?dl=0)
+![prison break image](https://github.com/osiBadir19/Prison-Break/blob/main/background.jpeg)
 
 # Prison break using helicopters 
 
