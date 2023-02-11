@@ -1,4 +1,4 @@
-![prison break image]([https://www.dropbox.com/s/.../my-remote-image.jpg?dl=0](https://cdn-0001.qstv.on.epicgames.com/RhMkzNxVYxURTjoBLk/image/screen_comp.jpeg))
+![prison break image](https://www.dropbox.com/s/f3w4qsbwvbt1r1u/screen_comp.jpeg?dl=0)
 
 # Prison break using helicopters 
 
